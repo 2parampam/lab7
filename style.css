@@ -1,0 +1,64 @@
+div{
+height: 80px;
+width: 200px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: left;
+margin: 3px;
+}
+.lang{
+height: 150px;
+width: 200px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: left;
+margin: 3px;
+}
+.info{
+height: 90px;
+width: 200px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: left;
+margin: 3px;
+}
+.edc{
+height: 200px;
+width: 300px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: absolute;
+margin: 0 0 0 auto;
+top: 21%;
+right:10%
+}
+.clad{
+height: 150px;
+width: 300px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: absolute;
+margin: 0 0 0 auto;
+top: 56%;
+right:10%
+}
+.bb{
+height: 150px;
+width: 300px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: absolute;
+margin: 0 0 0 auto;
+top: 119%;
+right:1%
+}
+.aa{
+height: 60px;
+width: 300px;
+background-color: rgb(169, 235, 255);
+border: 1px solid black;
+position: absolute;
+margin: 0 0 0 auto;
+top: 116%;
+right:1%
+}
